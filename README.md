@@ -8,3 +8,6 @@ This repository contains my assignments
 [Assignment 6](https://github.com/mvbarroeta/Assignments/blob/master/assignment4.md)
 
 [Assignment 5 - Week 8](https://github.com/mvbarroeta/Assignments/blob/master/assignment5.md)
+
+[Final R assignment](https://github.com/mvbarroeta/Assignments/blob/master/OECD_R_exam%20(M.%20Victoria%20Barroeta%2C%20Magdalena%20Kuyterink).ipynb)
+
